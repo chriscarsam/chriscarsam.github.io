@@ -94,9 +94,9 @@ body {
 .header-bar {
   display: block;
   padding: 5px 10px;
-  color: #fff;
+  color: rgb(9, 3, 65);
   text-align: left;
-  background-color: #848482;
+  background-color: #04c3f3;
 }
 
 .header-bar .address {
